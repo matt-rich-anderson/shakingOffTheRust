@@ -37,5 +37,8 @@ const getAllMonstersByPower = (powerName) => {
     return foundMonsters
 }
 
-const lightningMonsters = getAllMonstersByPower("Lightning")
-console.log(lightningMonsters)
+const addTwoAndTwo = () => 2 + 2
+
+const returnTwo = (valueOfFour) => valueOfFour - 2
+
+console.log(identifyPower)
